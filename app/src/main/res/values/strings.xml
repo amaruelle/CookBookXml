@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CookBook</string>
+    <string name="cookbook">CookBook</string>
+    <string name="next">Next</string>
+    <string name="cookie_logo">Cookie Logo</string>
+    <string name="lt"><![CDATA[<]]></string>
+</resources>
